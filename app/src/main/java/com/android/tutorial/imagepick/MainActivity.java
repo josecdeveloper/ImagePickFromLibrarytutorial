@@ -16,6 +16,10 @@ public class MainActivity extends AppCompatActivity {
     private static final int RESULT_LOAD_IMG = 1;
     String imgDecodableString;
 
+    private void simpleMethod() {
+        String string = "Simple Method";
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
