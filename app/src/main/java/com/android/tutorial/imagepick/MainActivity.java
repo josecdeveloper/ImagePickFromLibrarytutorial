@@ -58,4 +58,8 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+
+    private void testUpload() {
+        int i = 5;
+    }
 }
